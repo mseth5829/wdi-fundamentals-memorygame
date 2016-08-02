@@ -58,7 +58,8 @@ footer {
 	height: 50%;
 	width: 50%;
 	float: left;
-	margin: 8%;
+	margin: 4% 9%;
+	margin-bottom: 1%;
 	clear: both;
 }
 
@@ -72,3 +73,28 @@ footer {
 	float: left;
 	margin: 0px 50px 50px 0;
 }
+
+img {
+	height: 200px;
+	width: 150px;
+}
+
+.total-score{
+	display:inline-block;
+	margin-bottom: 8%;
+	font-size: 2rem;
+	font-family: Garamond, sans-serif;
+
+}
+
+#score {
+	font-weight: bold;
+	color: rgb(2, 132, 130);
+}
+
+
+
+
+
+
+
